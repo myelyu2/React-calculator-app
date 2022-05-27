@@ -15,9 +15,9 @@ Considering all the features listed above, based on my experience, it will be ea
 
 One of the design patterns is user familiarity with the system. I am not inventing a new generation calculator, so it must have the same layout of buttons as the regular ones. It is important to keep all buttons on the same positions for the User’s comfort.
 
-Now, it looks like a simple calculator. We also indicate that the result will be copied if we hover and click on the display.
+Now, it looks like a simple calculator. We also identify the color palette for the project in advance because it will be easier to code it afterwards.
 
-We also identify the color palette for the project in advance because it will be easier to code it afterwards.
+<img width="907" alt="Screen Shot 2022-05-27 at 2 29 40 PM" src="https://user-images.githubusercontent.com/89800281/170777845-f5d0f667-5718-456a-a216-906583e8b88a.png">
 
 
 
