@@ -1,5 +1,7 @@
 # React calculator app
 
+Link: https://myelyu2.github.io/calculator/
+
 1.	Intro
 I decided to do this project because I thought I needed to showcase the way I do development projects on something as simple as calculator app. The calculator will have simple functions like add, subtract, divide and multiply, with a simple design (because I like simplicity). The process of developing the app will consist of planning, designing, and developing. So, lets begin. </br>
 
