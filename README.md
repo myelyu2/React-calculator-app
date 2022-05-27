@@ -11,7 +11,7 @@ First, as I said we need to plan the project and identify all (or the most impor
 3. Clear input/output;</br>
 4. Copy result to the clipboard;</br>
 
-<h3>DESIGNINg</h3>
+<h3>DESIGNING</h3>
 Considering all the features listed above, based on my experience, it will be easy to develop an app if we have a wireframe/layout of the app we want to build first. So, we head on to Figma, create new project and add all the buttons based on the features.</br>
 
 One of the design patterns is user familiarity with the system. I am not inventing a new generation calculator, so it must have the same layout of buttons as the regular ones. It is important to keep all buttons on the same positions for the User’s comfort.</br>
