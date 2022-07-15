@@ -2,7 +2,7 @@
 
 <img width="1431" alt="Screen Shot 2022-05-28 at 4 14 21 PM" src="https://user-images.githubusercontent.com/89800281/170843040-5c251d0a-21c3-4507-9bd2-b505ebbdf67e.png">
 
-<h3>Link </h3> https://myelyu2.github.io/calculator/
+<h3>Link </h3> https://myelyu2.github.io/React-calculator-app/
 
 <h3>Intro </h3>
 I decided to do this project because I thought I needed to showcase the way I do development projects on something as simple as calculator app. The calculator will have simple functions basic add, subtract, divide, multiply and calculate a percentage, with a simple design (because I like simplicity). The process of developing the app will consist of planning, designing, and developing. So, lets begin.
